@@ -36,4 +36,5 @@ PLATFORMS
 
 DEPENDENCIES
   activerecord
+  activesupport
   tweetstream
