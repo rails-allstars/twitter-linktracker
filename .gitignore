@@ -1,3 +1,4 @@
 *~ 
 .rvmrc
 settings.yml
+*.pid
